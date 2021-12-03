@@ -20,7 +20,7 @@
     "typescript": "latest"
   },
   "scripts": {
-    "storybook": "start-storybook -p 6006",
+    "storybook": "start-storybook -p 6006 -c packages/storybook/.storybook",
     "build-storybook": "build-storybook"
   }
 }
